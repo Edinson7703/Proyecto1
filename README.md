@@ -1,5 +1,5 @@
-# Proyecto1
-# Material para la entrega 1 del proyecto de Seguridad en Base de Datos
+# Proyecto
+# Material para la entrega 2 del proyecto de Seguridad en Base de Datos
 # Integrantes  Grupo #3
 # Angélica Martín
 # Edwin Medina
